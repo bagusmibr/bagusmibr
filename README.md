@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/◉-PORTFOLIO-00FF41?style=for-the-badge&labelColor=000000)](https://portobagusmibr.vercel.app)&nbsp;
 [![](https://img.shields.io/badge/◉-GITHUB-00FF41?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr)&nbsp;
-[![](https://img.shields.io/badge/◉-TIKTOK-00FF41?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bdgsesports)&nbsp;
+[![](https://img.shields.io/badge/◉-TIKTOK-00FF41?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bagusmibr)&nbsp;
 [![](https://img.shields.io/badge/◉-OPEN_TO_WORK-00FF41?style=for-the-badge&labelColor=003300)](https://portobagusmibr.vercel.app)
 
 </div>
