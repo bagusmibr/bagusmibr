@@ -1,377 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:001a00,50:003300,100:00FF41&height=160&section=header&text=%5B%20bagusmibr%20%5D&fontSize=52&fontColor=00FF41&fontAlignY=55&animation=blinking" width="100%"/>
-
-</div>
-
-```
-███████████████████████████████████████████████████████████████████████
-█                                                                     █
-█   > Initializing profile.exe...                                     █
-█   > Loading developer data...                     [██████████] 100% █
-█   > Access granted. Welcome, Recruiter.                             █
-█                                                                     █
-███████████████████████████████████████████████████████████████████████
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=root%40bagusmibr%3A~%24+whoami;%3E+Fullstack+Developer+%26+Mobile+Engineer;root%40bagusmibr%3A~%24+cat+skills.txt;%3E+Flutter+%7C+Laravel+%7C+MySQL+%7C+C%23;root%40bagusmibr%3A~%24+./run+portfolio.sh;%3E+Loading+portobagusmibr.vercel.app...)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:00FF41&height=200&section=header&text=bagusmibr&fontSize=70&fontColor=00FF41&fontAlignY=55&desc=Fullstack%20%7C%20Mobile%20%7C%20Creative&descAlignY=75&descSize=18&descColor=00cc33&animation=fadeIn&stroke=00FF41&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/[_PORTFOLIO_]-portobagusmibr.vercel.app-00FF41?style=for-the-badge&labelColor=000000&color=003300)](https://portobagusmibr.vercel.app)
-[![GitHub](https://img.shields.io/badge/[_GITHUB_]-bagusmibr-00FF41?style=for-the-badge&labelColor=000000&color=003300&logo=github&logoColor=00FF41)](https://github.com/bagusmibr)
-[![TikTok](https://img.shields.io/badge/[_TIKTOK_]-bdgsesports-00FF41?style=for-the-badge&labelColor=000000&color=003300&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bdgsesports)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=40&lines=root%40bagusmibr%3A~%24+whoami+%F0%9F%91%BE;%3E+Fullstack+Developer+%26+Mobile+Engineer;root%40bagusmibr%3A~%24+uptime;%3E+Active+since+2020+%7C+%5BONLINE%5D;root%40bagusmibr%3A~%24+cat+motto.txt;%3E+%22Bridging+code+with+visual+aesthetics%22)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
+<div align="center">
+
+[![](https://img.shields.io/badge/◉-PORTFOLIO-00FF41?style=for-the-badge&labelColor=000000)](https://portobagusmibr.vercel.app)&nbsp;
+[![](https://img.shields.io/badge/◉-GITHUB-00FF41?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr)&nbsp;
+[![](https://img.shields.io/badge/◉-TIKTOK-00FF41?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bdgsesports)&nbsp;
+[![](https://img.shields.io/badge/◉-OPEN_TO_WORK-00FF41?style=for-the-badge&labelColor=003300)](https://portobagusmibr.vercel.app)
+
+</div>
+
 ---
 
-## `> cat /etc/developer.conf`
+<div align="center">
 
-```bash
-#!/bin/bash
-# ============================================================
-#  DEVELOPER PROFILE — bagusmibr
-#  Last modified: 2026 | Status: ACTIVE
-# ============================================================
+## ⬡ `SKILL_MATRIX.exe` ⬡
 
-NAME="Bagus Maulana Ibrahim"
-ALIAS="bagusmibr"
-ROLE="Fullstack Developer & Mobile Engineer"
-LOCATION="Indonesia"
-EDUCATION="S1 Information Systems @ Amikom Yogyakarta [GPA: 3.46/4.00]"
-STATUS="IT Support & App Developer @ PT HUIT International"
-OPEN_TO_WORK=true
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,js,html,css&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,vscode,cs,lua,firebase&theme=dark&perline=8" />
 
-SKILLS=(
-  "Flutter"       # Cross-platform iOS & Android apps
-  "Laravel"       # REST APIs & web backend
-  "MySQL"         # Database design & optimization
-  "C#"            # System tools & anti-cheat
-  "JavaScript"    # Frontend & web tools
-  "Figma"         # UI/UX & design
-  "Photoshop"     # Creative & esports graphic design
-)
+</div>
 
-CURRENT_MISSION=(
-  "[01] Building HRIS Flutter app for PT HUIT International"
-  "[02] Designing esports assets for BDGS Esports Team"
-  "[03] Engineering workflow automations for HR & QC"
-  "[04] Modding Assetto Corsa visuals (ShiftedRealism Pack)"
-)
+---
 
-FUN_FACTS=(
-  "Built my own Assetto Corsa graphics preset pack"
-  "Graphic designer for a real esports team"
-  "Built an animated blackhole PWA portfolio from scratch"
-  "Built a standalone anti-cheat tool for tournaments in C#"
-)
+<div align="center">
 
-echo "Motivation: Bridging robust code with stunning visual aesthetics."
-```
+## ◈ `SYSTEM_STATS.sh` ◈
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=bagusmibr&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00cc33&text_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true&custom_title=◈+KERNEL+STATS"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusmibr&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=6&custom_title=◈+LANG+USAGE"/>
 
 <br/>
 
----
-
-## `> ls -la /skills/`
-
-<div align="center">
-
-```
-drwxr-xr-x  MOBILE          Flutter • Dart • Firebase
-drwxr-xr-x  WEB             PHP • Laravel • JavaScript • HTML5 • CSS3
-drwxr-xr-x  DATABASE        MySQL • REST API • JWT Auth
-drwxr-xr-x  DESIGN          Figma • Photoshop • Illustrator • Canva
-drwxr-xr-x  TOOLS           Git • VS Code • C# • Lua • Content Manager
-```
+[![GitHub Streak](https://streak-stats.demolab.com?user=bagusmibr&theme=terminal&hide_border=true&background=000000&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00FF41&dates=006600&stroke=003300)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
-### `[MOBILE]`
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com)
-
-### `[WEB]`
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-
-### `[DATABASE & BACKEND]`
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io)
-
-### `[CREATIVE & TOOLS]`
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-[![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://adobe.com)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-</div>
-
-<br/>
 
 ---
 
-## `> ./stats.sh --user bagusmibr`
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagusmibr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00cc33&text_color=00FF41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusmibr&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8"/>
+## ◈ `DEPLOYED_PROJECTS` ◈
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bagusmibr&theme=terminal&hide_border=true&background=000000&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00cc33&currStreakNum=00FF41&sideNums=00FF41&dates=006600)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
-
-## `> cat /var/log/projects.log`
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `[PROJECT_01] HUIT_HRIS.exe`
-![HRIS](https://i.imgur.com/cPvldQa.jpeg)
+[![HRIS](https://img.shields.io/badge/◉_HUIT_HRIS_SYSTEM-2026-00FF41?style=for-the-badge&labelColor=000000)](https://portobagusmibr.vercel.app)
 
-```
-STATUS   : DEPLOYED
-YEAR     : 2026
-TYPE     : Enterprise System
-```
+<img src="https://i.imgur.com/cPvldQa.jpeg" width="100%"/>
 
-**Complete HRIS** for PT HUIT International. Flutter app, web admin, REST API, payroll automation, executive analytics.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-| Module | Stack |
-|--------|-------|
-| Mobile | Flutter + Dart |
-| Web | Laravel + PHP |
-| API | REST + JWT |
-| DB | MySQL |
-
-[![Demo](https://img.shields.io/badge/STATUS-PRIVATE-333333?style=flat-square&labelColor=000000)]()
+[![](https://img.shields.io/badge/PRIVATE-333333?style=flat-square&labelColor=000000)]()
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `[PROJECT_02] CLFS_AntiCheat.exe`
-![CLFS](https://i.imgur.com/uzM6Od2.jpeg)
+[![CLFS](https://img.shields.io/badge/◉_CANNOT_LIE_FROM_SHIFTED-2026-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/bagusmibr/Cannot-Lie-From-Shifted)
 
-```
-STATUS   : RELEASED
-YEAR     : 2026
-TYPE     : Security Tool
-```
+<img src="https://i.imgur.com/uzM6Od2.jpeg" width="100%"/>
 
-**System auditing tool** — burst screenshots, process monitoring, USB peripheral ID for tournament integrity.
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-| Module | Stack |
-|--------|-------|
-| Capture | Screenshot engine |
-| Audit | Process scanner |
-| HW | USB identification |
-
-[![Repo](https://img.shields.io/badge/GITHUB-VIEW_REPO-00FF41?style=flat-square&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr/Cannot-Lie-From-Shifted)
+[![](https://img.shields.io/badge/◉_GITHUB-VIEW-00FF41?style=flat-square&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr/Cannot-Lie-From-Shifted)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `[PROJECT_03] UnwantedLab.sh`
-![UnwantedLab](https://raw.githubusercontent.com/bagusmibr/unwantedlab/refs/heads/main/preview.png)
+[![UL](https://img.shields.io/badge/◉_UNWANTED_LAB-2026-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/bagusmibr/unwantedlab)
 
-```
-STATUS   : RELEASED
-YEAR     : 2026
-TYPE     : Video Tool / CLI
-```
+<img src="https://raw.githubusercontent.com/bagusmibr/unwantedlab/refs/heads/main/preview.png" width="100%"/>
 
-**Video processor** — bypasses TikTok 120fps compression via FFmpeg for maximum quality uploads.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-| Module | Stack |
-|--------|-------|
-| Engine | FFmpeg pipeline |
-| UI | HTML + CSS + JS |
-
-[![Repo](https://img.shields.io/badge/GITHUB-VIEW_REPO-00FF41?style=flat-square&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr/unwantedlab)
+[![](https://img.shields.io/badge/◉_GITHUB-VIEW-00FF41?style=flat-square&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/bagusmibr/unwantedlab)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `[PROJECT_04] ShiftedRealism.pack`
-![ShiftedRealism](https://i.imgur.com/GssTEzf.jpeg)
+[![SR](https://img.shields.io/badge/◉_SHIFTEDREALISM_PACK-2024-00FF41?style=for-the-badge&labelColor=000000)](https://www.youtube.com/watch?v=P2pb9fUOdkk)
 
-```
-STATUS   : RELEASED
-YEAR     : 2024
-TYPE     : Game Mod / Creative
-```
+<img src="https://i.imgur.com/GssTEzf.jpeg" width="100%"/>
 
-**Assetto Corsa graphics pack** — recalibrated lighting, textures, post-FX for cinematic visuals at stable FPS.
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Game](https://img.shields.io/badge/Assetto_Corsa-Mod-00FF41?style=flat-square&labelColor=000000)
 
-| Module | Stack |
-|--------|-------|
-| Light | Custom LUT & exposure |
-| PostFX | Shader tweaking |
-
-[![Demo](https://img.shields.io/badge/YOUTUBE-WATCH_DEMO-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=P2pb9fUOdkk)
-[![DL](https://img.shields.io/badge/GDRIVE-DOWNLOAD-00FF41?style=flat-square&logo=googledrive&labelColor=000000)](https://drive.google.com/drive/folders/1RK0Lx8gN-Qe7GrIeHT8zWwbQNrwhLLeS)
+[![](https://img.shields.io/badge/◉_YOUTUBE-DEMO-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=P2pb9fUOdkk)
+[![](https://img.shields.io/badge/◉_GDRIVE-DL-00FF41?style=flat-square&labelColor=000000&logo=googledrive&logoColor=00FF41)](https://drive.google.com/drive/folders/1RK0Lx8gN-Qe7GrIeHT8zWwbQNrwhLLeS)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+<div align="center">
+
+## ◈ `CAREER_TIMELINE` ◈
+
+[![](https://img.shields.io/badge/2026_Present-IT_Support_%26_App_Dev_@_PT_HUIT_International-00FF41?style=for-the-badge&labelColor=000000)](https://portobagusmibr.vercel.app)
+
+[![](https://img.shields.io/badge/2025-Graphics_Designer_@_BDGS_Esports-00cc33?style=for-the-badge&labelColor=001a00)](https://www.tiktok.com/@bdgsesports)
+
+[![](https://img.shields.io/badge/2025-System_Analyst_@_Crazy_Rich_Rental-009922?style=for-the-badge&labelColor=001a00)]()
+
+[![](https://img.shields.io/badge/2020_2024-S1_Information_Systems_@_Amikom_·_GPA_3.46-007711?style=for-the-badge&labelColor=001a00)]()
+
+[![](https://img.shields.io/badge/2018_2020-Business_Daring_@_SMK_Muh._1_Wonosobo-005500?style=for-the-badge&labelColor=001a00)]()
+
+</div>
 
 ---
 
-## `> cat /var/log/career_history.log`
+<div align="center">
 
-```
-[2026-Present] IT Support & App Developer  ....  PT Huit International    [ACTIVE]
-[2025]         Graphics Designer           ....  BDGS Esports Team        [COMPLETED]
-[2025]         System Analyst              ....  Crazy Rich Rental         [COMPLETED]
-[2020-2024]    S1 Information Systems      ....  Amikom Yogyakarta         [GPA: 3.46]
-[2018-2020]    Business Daring & Marketing ....  SMK Muhammadiyah 1        [GRADUATED]
-```
+## ◈ `ACTIVITY_LOG` ◈
 
-```bash
-$ Built Flutter mobile app with GPS-based attendance (iOS & Android)
-$ Engineered Laravel REST API with JWT auth, payroll & attendance endpoints
-$ Optimized MySQL queries for large-scale HR data operations
-$ Created web admin dashboard for comprehensive HR management
-$ Automated CV screening & Quality Control workflows via scripting
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagusmibr&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00cc33&point=00FF41&area=true&area_color=003300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
+</div>
 
 ---
 
-## `> ls creative_works/`
+<div align="center">
+
+## ◈ `ACHIEVEMENTS.dat` ◈
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bagusmibr&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ `CREATIVE_WORKS` ◈
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-**`esports_poster.psd`**
+[![EP](https://img.shields.io/badge/◉_ESPORTS_POSTER-Photoshop_·_2025-00FF41?style=flat-square&labelColor=000000)](https://www.tiktok.com/@bdgsesports)
 
-![Esports Poster](https://i.imgur.com/49nU0tb.jpeg)
+<img src="https://i.imgur.com/49nU0tb.jpeg" height="180"/>
 
-```
-CLIENT : BDGS Esports
-YEAR   : 2025
-TOOL   : Adobe Photoshop
-```
-
-[![TikTok](https://img.shields.io/badge/VIEW-@bdgsesports-000000?style=flat-square&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bdgsesports)
+[![](https://img.shields.io/badge/TIKTOK-@bdgsesports-000000?style=flat-square&logo=tiktok&logoColor=00FF41)](https://www.tiktok.com/@bdgsesports)
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
-**`crazy_rich_rental.fig`**
+[![CR](https://img.shields.io/badge/◉_CRAZY_RICH_RENTAL-Figma_+_Laravel_·_2024-00FF41?style=flat-square&labelColor=000000)](https://drive.google.com/drive/folders/1nN_45OZTz-_ifQBgISODAtKplvDgDV6v)
 
-![Car Rental](https://i.imgur.com/gfunpyM.png)
+<img src="https://i.imgur.com/gfunpyM.png" height="180"/>
 
-```
-CLIENT : Crazy Rich Rental
-YEAR   : 2024
-STACK  : Figma + Laravel
-```
-
-[![GDrive](https://img.shields.io/badge/VIEW-PROJECT-000000?style=flat-square&logo=googledrive&logoColor=00FF41)](https://drive.google.com/drive/folders/1nN_45OZTz-_ifQBgISODAtKplvDgDV6v)
+[![](https://img.shields.io/badge/GDRIVE-VIEW-000000?style=flat-square&logo=googledrive&logoColor=00FF41)](https://drive.google.com/drive/folders/1nN_45OZTz-_ifQBgISODAtKplvDgDV6v)
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
-**`portfolio_pwa.html`**
+[![PF](https://img.shields.io/badge/◉_PWA_PORTFOLIO-HTML+CSS+JS_·_LIVE-00FF41?style=flat-square&labelColor=000000)](https://portobagusmibr.vercel.app)
 
-```
-STATUS  : LIVE
-STACK   : HTML+CSS+JS
-DEPLOY  : Vercel
-FEATURE : Blackhole Anim
-          Dark PWA
-          Mobile-first
-```
+<img src="https://img.shields.io/badge/PWA-LIVE-00FF41?style=for-the-badge&labelColor=000000" height="40"/>
+<br/>
+<img src="https://img.shields.io/badge/VERCEL-DEPLOYED-00FF41?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00FF41" height="40"/>
 
-[![Visit](https://img.shields.io/badge/VISIT-portobagusmibr-00FF41?style=flat-square&labelColor=000000)](https://portobagusmibr.vercel.app)
+[![](https://img.shields.io/badge/VISIT-portobagusmibr.vercel.app-00FF41?style=flat-square&labelColor=000000)](https://portobagusmibr.vercel.app)
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
 ---
 
-## `> git log --author=bagusmibr --graph`
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagusmibr&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00cc33&point=00FF41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:00FF41&height=100&section=footer&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%"/>
 
-</div>
-
-<br/>
-
----
-
-## `> sudo apt-get install trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bagusmibr&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-## `> netstat -connect bagusmibr`
-
-<div align="center">
-
-```
-ESTABLISHED  portobagusmibr.vercel.app  -->  https://portobagusmibr.vercel.app
-ESTABLISHED  github.com/bagusmibr      -->  https://github.com/bagusmibr
-ESTABLISHED  tiktok/@bdgsesports        -->  https://www.tiktok.com/@bdgsesports
-LISTENING    contact                    -->  via Portfolio Contact Form
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-> Session terminated. Thank you for visiting. EOF.
-```
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=bagusmibr&color=00FF41&style=for-the-badge&label=INTRUSIONS+DETECTED)
+![](https://komarev.com/ghpvc/?username=bagusmibr&color=00FF41&style=for-the-badge&label=INTRUSIONS+DETECTED)
 
 </div>
