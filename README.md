@@ -119,23 +119,6 @@
 
 <div align="center">
 
-## ◈ `CAREER_TIMELINE` ◈
-
-[![](https://img.shields.io/badge/2026_Present-IT_Support_%26_App_Dev_@_PT_HUIT_International-00FF41?style=for-the-badge&labelColor=000000)](https://portobagusmibr.vercel.app)
-
-[![](https://img.shields.io/badge/2025-Graphics_Designer_@_BDGS_Esports-00cc33?style=for-the-badge&labelColor=001a00)](https://www.tiktok.com/@bdgsesports)
-
-[![](https://img.shields.io/badge/2025-System_Analyst_@_Crazy_Rich_Rental-009922?style=for-the-badge&labelColor=001a00)]()
-
-[![](https://img.shields.io/badge/2020_2024-S1_Information_Systems_@_Amikom_·_GPA_3.46-007711?style=for-the-badge&labelColor=001a00)]()
-
-[![](https://img.shields.io/badge/2018_2020-Business_Daring_@_SMK_Muh._1_Wonosobo-005500?style=for-the-badge&labelColor=001a00)]()
-
-</div>
-
----
-
-<div align="center">
 
 ## ◈ `ACTIVITY_LOG` ◈
 
